@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "Lua.diagnostics.globals": [
+    "vim",
+    "describe",
+    "it",
+    "assert"
+  ],
+  "Lua.runtime.version": "LuaJIT",
+  "Lua.workspace.library": [
+    "test"
+  ]
+}

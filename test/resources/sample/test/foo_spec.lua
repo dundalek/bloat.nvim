@@ -1,0 +1,1 @@
+it("foo", function() end)
