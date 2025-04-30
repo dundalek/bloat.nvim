@@ -1,3 +1,4 @@
+require("bloat")
 local internal = require("bloat.internal")
 
 describe("bloat", function()
